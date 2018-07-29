@@ -2,6 +2,12 @@ Slash
 
 A Java Based Utility App Suite
 
+
+USERNAME: admin
+
+PASSWORD: admin
+
+
 This mini project is based on Java Applets and Several Libraries
 
 Calculator: It is the simple scientific calculator which is build on java.awt library
@@ -16,3 +22,6 @@ KBC: It is a simple general knowledge game where you have answer questions and b
      There are certain lifelines to help you easily answer the given questions
      
 The entire project is made on the Java Platform.
+
+
+** For more outputs check Slash.docx
